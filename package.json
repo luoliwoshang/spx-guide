@@ -1,0 +1,15 @@
+{
+  "name": "spx-doc-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhangzhiyang",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
+  },
+    "scripts": {
+      "docs:dev": "vuepress dev docs",
+      "docs:build": "vuepress build docs"
+    }
+  
+}
