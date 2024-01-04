@@ -18,10 +18,6 @@ export default {
               link:"/guide/coordinate/"
             }]
           },
-          {
-            text: '个人随笔',
-            children: ['/personal/game/', '/personal/pc/'],
-          },
         ],
       },
 

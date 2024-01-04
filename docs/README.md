@@ -1,6 +1,8 @@
 ---
 home: true
-heroText: Forever Study
+heroImage: /images/banner.jpg
+heroText: Spx
+tagline: Spx:2D Game Engine
 actions:
   - text: SPX简介
     link: /intro/
