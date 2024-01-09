@@ -23,6 +23,30 @@ export default {
 
 
     ],
+
+    sidebar: [
+      // SidebarItem
+      {
+        text: '指南',
+        children: [
+          // SidebarItem
+          // {
+          //   text: 'github',
+          //   link: 'https://github.com',
+          //   children: [],
+          // },
+          // 字符串 - 页面文件路径
+          {
+            text: '坐标体系',
+            children: [
+              '/guide/coordinate.md',
+            ],
+          }
+        ],
+      },
+  
+    ],
+    sidebarDepth:4
   }),
   plugins: [
 

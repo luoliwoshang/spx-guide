@@ -7,8 +7,8 @@ actions:
   - text: SPX简介
     link: /intro/
     type: primary
-  - text: 教程目录
-    link: /blog/
+  - text: 教程
+    link: /guide/
     type: secondary
 features:
 - title: SPX简介
