@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-VeY2hFh8.js";const r={},s=e("h2",{id:"坐标体系",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#坐标体系","aria-hidden":"true"},"#"),o(" 坐标体系")],-1),n=[s];function _(d,i){return a(),c("div",null,n)}const l=t(r,[["render",_],["__file","xy.html.vue"]]);export{l as default};
