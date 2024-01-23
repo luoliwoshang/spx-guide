@@ -2,7 +2,7 @@
  * @Author: Zhang Zhi Yang
  * @Date: 2024-01-04 11:05:40
  * @LastEditors: Zhang Zhi Yang
- * @LastEditTime: 2024-01-23 16:21:07
+ * @LastEditTime: 2024-01-23 16:32:35
  * @FilePath: /workspace/spx-doc-v2/docs/.vuepress/config.ts
  * @Description: 
  */
@@ -36,21 +36,10 @@ export default {
       // SidebarItem
       {
         text: '指南',
-        children: [
-          // SidebarItem
-          // {
-          //   text: 'github',
-          //   link: 'https://github.com',
-          //   children: [],
-          // },
-          // 字符串 - 页面文件路径
-          {
-            text: '坐标体系',
-            children: [
-              '/guide/coordinate.md',
-            ],
-          }
-        ],
+        children:[{
+          text:"基础概念",
+          link:"/guide/basic-concept/"
+        }]
       },
   
     ],
