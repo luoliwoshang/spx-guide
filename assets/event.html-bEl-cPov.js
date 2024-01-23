@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6765606b","path":"/guide/event.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"事件","slug":"事件","link":"#事件","children":[]}],"git":{"updatedTime":1705998792000,"contributors":[{"name":"luoliwoshang","email":"2643523683@qq.com","commits":1}]},"filePathRelative":"guide/event.md"}');export{e as data};
