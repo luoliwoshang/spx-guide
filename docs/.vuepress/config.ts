@@ -1,3 +1,11 @@
+/*
+ * @Author: Zhang Zhi Yang
+ * @Date: 2024-01-04 11:05:40
+ * @LastEditors: Zhang Zhi Yang
+ * @LastEditTime: 2024-01-23 16:21:07
+ * @FilePath: /workspace/spx-doc-v2/docs/.vuepress/config.ts
+ * @Description: 
+ */
 import { defaultTheme } from '@vuepress/theme-default'
 
 
@@ -12,10 +20,10 @@ export default {
         text: '指南',
         children: [
           {
-            text: '坐标体系',
+            text: '起步',
             children:[{
-              text:"精灵坐标",
-              link:"/guide/coordinate/"
+              text:"基础概念",
+              link:"/guide/basic-concept/"
             }]
           },
         ],
